@@ -3,7 +3,7 @@
 ![Github_header](https://user-images.githubusercontent.com/88898454/162613510-d24014b6-b4ea-4f67-ba4a-19b4d956ceab.png)
 
 <h1 align="center">  
-👋 Hi, I’m @Stark-FSD
+👋 Hi, I’m @Shahid
 - 👀 I’m interested in Technology
 - 🌱 I’m currently learning Full Stack Development </h1>
 
@@ -19,7 +19,7 @@
 
 <h3 align="left"> ~ Tools, Services, Environments :</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=postman,git,github,mysql,mongodb,vscode&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=postman,git,github,mysql,mongodb,react,vscode&theme=light)](https://skillicons.dev)
 
 <h3 align="left"> ~ Connect me with :</h3>
 
