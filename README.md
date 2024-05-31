@@ -5,7 +5,7 @@
 <h1 align="center">  
 👋 Hi, I’m @Shahid
 - 👀 I’m interested in Technology
-- 🌱 I’m currently learning Full Stack Development </h1>
+- 🌱 I’m a MERN Full Stack Developer </h1>
 
 
 
